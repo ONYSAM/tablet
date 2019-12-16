@@ -1,0 +1,21 @@
+{
+	"author": "Tablet",
+	"version": "1.0",
+	"server_scripts": [
+		"server/server.lua"
+	],
+	"files": [
+		"client/tablet/index.html",
+		"client/tablet/desktop.js",
+		"client/tablet/descktop.css",
+		"client/tablet/metro/css/metro-all.css",
+		"client/tablet/metro/js/metro.js",
+		"client/tablet/images/128260.jpg",
+		"client/tablet/metro.ttf",
+		"client/tablet/metro.woff",
+		"client/tablet/metro.svg"
+	],
+	"client_scripts": [
+		"client/client.lua"
+	]
+}
