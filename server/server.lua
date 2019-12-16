@@ -14,12 +14,12 @@ end
 AddEvent("OnPlayerJoin", OnPlayerJoin)
 
 AddEvent("OnPackageStart", function ()
-    AddPlayerChatAll("HEY FUCK YOU!")
+
 end)
 
 function OnPackageStop()
 
 end
 AddEvent("OnPackageStop", function ()
-    AddPlayerChatAll("FUCK YOU!")
+   
 end)
